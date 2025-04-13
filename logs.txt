@@ -1,0 +1,17 @@
+*   3ae5021 Merge branch '3-list-tasks-sorted-by-name'git# Please enter a commit message to explain why this merge is necessary,
+|\  
+| * cdd2395 Implement sortTasksByname method. Closes #3
+* |   55d88d7 Merge pull request #11 from ivce17/2-find-all-completed-tasks
+|\ \  
+* \ \   e8fc156 Merge pull request #10 from ivce17/1-remove-a-task-by-name
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 1162b47 Implement removeTask method. Closes #1
+|/ /  
+| | * fd8a4ab Implement 'List Tasks sorted by name' method. Closes #3.
+| |/  
+| * 59b4e6f Implement 'Find all completed tasks' method. Closes #2
+|/  
+* 14ac77f Add starter code
+* 707817f Initial commit
